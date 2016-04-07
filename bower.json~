@@ -1,6 +1,9 @@
 {
   "name": "react-select-plus",
-  "main": "dist/react-select.min.js",
+  "main": [
+    "dist/react-select.min.js",
+    "dist/react-select.min.css"
+  ],
   "version": "1.0.0-beta11",
   "homepage": "https://github.com/HubSpot/react-select-plus",
   "authors": [
